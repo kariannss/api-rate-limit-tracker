@@ -1,0 +1,1 @@
+class Tracker { check() { return true; } } module.exports = { Tracker };
